@@ -1,7 +1,7 @@
-docker-engine-exporter
+docker-exporter
 =====================
 
-This repo is inspired from a slack post from [bvis][https://github.com/bvis] in the docker community slack how to export dynamically your engine metrics.
+This repo is inspired from a slack post from [bvis](https://github.com/bvis) in the docker community slack how to export dynamically your engine metrics.
 
 
 ## Why does it work ?
